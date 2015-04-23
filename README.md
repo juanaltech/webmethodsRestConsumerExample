@@ -4,7 +4,7 @@ Example for consuming an HTTP/JSON REST service with webMethods Integration Serv
 
 ## Running the example
 
-Download the entire folder and place it in the *packages* folder in Integration server. Then either activate your package or restart Integration Server to be able to see it in Designer. 
+Download and the entire *RestConsumerDemo* folder and place it in the *packages* Integration server folder. Then either activate your package or restart Integration Server to be able to see the package in Designer. 
 
 Once in Designer, go the the *RestConsumerDemo* package, right click the *restconsumer* service under the *restconsumer* folder and select Run As -> Run Flow Service.
 
