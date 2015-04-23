@@ -1,2 +1,3 @@
-# webmethodsRestConsumerExample
-Example for consuming an HTTP/JSON REST service with webMethods
+# webmethods Rest Consumer Example
+
+Example for consuming an HTTP/JSON REST service with webMethods.
